@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=TR2_DRAIN Pin=Q3-5
+Removed Pin From Net: NetName=TR2_DRAIN Pin=Q3-5
+Removed Pin From Net: NetName=TR2_DRAIN Pin=Q3-5
+Removed Pin From Net: NetName=Mesure_1 Pin=Q3-7
+Change Component Description : Designator=U4 Old Description=Microchip MCP9808-E/MS Temperature Sensor 8-Pin MSOP, -40 - +125 degC New Description=Microchip MCP9808-E/MS Temperature Sensor 8-Pin MSOP, -40 - +125 degC | Microchip Technology Inc. MCP9808-E/MS
+Added Pin To Net: NetName=Mesure_2 Pin=Q2-6
+Added Pin To Net: NetName=TR2_DRAIN Pin=Q2-8
+Added Pin To Net: NetName=TR2_DRAIN Pin=Q2-8
+Added Pin To Net: NetName=TR2_DRAIN Pin=Q2-8
+Added Pin To Net: NetName=NetQ3_5 Pin=Q3-5
+Added Pin To Net: NetName=NetQ3_5 Pin=Q3-5
+Added Pin To Net: NetName=NetQ3_5 Pin=Q3-5
+Added Pin To Net: NetName=NetQ3_5 Pin=Q3-6
+Added Net: Name=NetQ3_5
+Added Pin To Net: NetName=NetQ3_7 Pin=Q3-7
+Added Pin To Net: NetName=NetQ3_7 Pin=Q3-8
+Added Pin To Net: NetName=NetQ3_7 Pin=Q3-8
+Added Pin To Net: NetName=NetQ3_7 Pin=Q3-8
+Added Net: Name=NetQ3_7
